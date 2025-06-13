@@ -2,7 +2,7 @@
 - Range: International models since 2015
 - Codename: ✅
 
-**Xperia Z5 dual:** `beyond0q`
+**Xperia Z5 dual: (`Sumire`):**
 `E6683`: Xperia Z5 dual
 
 **Xperia Z5 Premium:**
