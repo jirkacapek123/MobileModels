@@ -2,10 +2,17 @@
 - Range: International models since 2015
 - Codename: ✅
 
-**Xperia Z5 dual: (`Sumire`):**
-`E6683`: Xperia Z5 dual
+**Xperia Z5: (`Sumire`)**
 
-**Xperia Z5 Premium:**
+`E6603`: Xperia Z5
+
+`E6633`: Xperia Z5 dual
+
+**Xperia Z5 Compact:(`Suzuran`)**
+
+`E5803`: Xperia Z5 Compact
+
+**Xperia Z5 Premium: (`Satsuki`)**
 
 `E6883`: Xperia Z5 Premium
 
